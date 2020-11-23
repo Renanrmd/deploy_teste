@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Deploy teste
+                    Projeto Laravel: ON
                 </div>
 
                 <div class="links">
