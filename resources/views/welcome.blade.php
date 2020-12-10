@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Projeto Laravel: ON server 3
+                    Projeto Laravel: ON server
                 </div>
 
                 <div class="links">
