@@ -90,7 +90,11 @@ return [
             'prefix' => '',
             'prefix_indexes' => true,
         ],
-
+        'sms' => [
+            'driver'   => 'mongodb',
+            'dsn'      => 'mongodb+srv://sms-braip:ma4GnHkK5bhCbuHT@braip-sms.l9lwn.mongodb.net/sms?retryWrites=true&w=majority',
+            'database' => env('DB_CONNECTION', 'sms'),
+        ],
     ],
 
     /*
