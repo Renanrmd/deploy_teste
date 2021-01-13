@@ -3,3 +3,9 @@ os: linux
 files:
   - source: /
     destination: /var/www/html/
+artifacts:
+  files:
+    - '**/*'
+  base-directory: base_dir
+  name: build-artifact-name
+  discard-paths: no
