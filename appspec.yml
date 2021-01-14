@@ -3,3 +3,8 @@ os: linux
 files:
   - source: /
     destination: /home/harmonize/deploy_teste
+hooks:
+    Beforeinstall:
+        - location: scripts/BeforeInstall.sh
+    AfterInstall:
+        - location: scripts/AfterInstall.sh
