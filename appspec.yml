@@ -1,9 +1,9 @@
 version: 0.0
 os: linux
 files:
-  overwrite: true
   - source: /
     destination: /home/harmonize/deploy_teste
+    overwrite: true
 hooks:
     Beforeinstall:
         - location: scripts/BeforeInstall.sh
