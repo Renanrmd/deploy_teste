@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Harmonize
+                    Harmonize - App
                 </div>
 
                 <div class="links">
