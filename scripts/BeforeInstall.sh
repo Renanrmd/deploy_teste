@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo rm -rf /home/harmonize/harmonize/*
+sudo rm -rfv /home/harmonize/harmonize/*
+sudo rm -v /home/harmonize/harmonize/.*
