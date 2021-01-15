@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Deploy está funcionando automaticamente agora
+                    Hello World
                 </div>
 
                 <div class="links">
