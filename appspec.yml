@@ -5,7 +5,7 @@ files:
     destination: /home/harmonize/deploy_teste
     overwrite: true
 hooks:
-    Beforeinstall:
+    BeforeInstall:
         - location: scripts/BeforeInstall.sh
     AfterInstall:
         - location: scripts/AfterInstall.sh
