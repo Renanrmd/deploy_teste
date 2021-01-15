@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/harmonize/deploy_teste
+    destination: /home/harmonize/harmonize
     overwrite: true
 hooks:
     BeforeInstall:
