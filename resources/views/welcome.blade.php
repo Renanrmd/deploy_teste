@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Te amo mil milhões
+                    Harmonize
                 </div>
 
                 <div class="links">
