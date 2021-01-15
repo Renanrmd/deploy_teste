@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Oi
+                    Deploy está funcionando automaticamente agora
                 </div>
 
                 <div class="links">
